@@ -15,10 +15,10 @@ For this project, I will assume the role of a Data Scientist working for a new s
 
 # Skills Learned
 
-*Data extraction using the yfinance library
+-Data extraction using the yfinance library
 
-*Webscraping using the BeautifulSoup library
+-Webscraping using the BeautifulSoup library
 
-*Data Analysis
+-Data Analysis
 
-*Dashboard creation
+-Dashboard creation
