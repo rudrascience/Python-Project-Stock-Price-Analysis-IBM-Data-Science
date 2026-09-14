@@ -64,7 +64,7 @@ For this project I will use Skills Network Labs and Watson Studio. Skills Networ
 To view the Certificate click on the image
 
 <p align="middle">
-<a href="https://coursera.org/share/963fe031844f6f896228c7bc8189535a"><img width="450" height="450" alt="Coursera ZG8UOA1FPV5X_page-0001" src="https://github.com/user-attachments/assets/f4af0d5f-4ce0-4d3a-932b-d57f75f12baf" />
+<a href="https://coursera.org/share/963fe031844f6f896228c7bc8189535a"><img width="500" height="450" alt="Coursera ZG8UOA1FPV5X_page-0001" src="https://github.com/user-attachments/assets/f4af0d5f-4ce0-4d3a-932b-d57f75f12baf" />
 </a>
 
 
